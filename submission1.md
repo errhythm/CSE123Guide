@@ -1,6 +1,8 @@
 ---
-title: "Submission 1 (Individual Submission)"
+title: "Submission 1"
 ---
+
+[!badge Individual Work]
 
 At first you have to select 2 papers related to your course contents. You will have to submit the paper links in the relevant Google Form which will be given in Slack and that way you can ensure your chosen two papers are unique and were not chosen by others. The paper must be published in or after 2022. Create a Google Slide covering the **first research paper**. **All the slides must have page numbers.**
 
@@ -30,9 +32,9 @@ How to read a paper: <br>
 ===
 
 === Submission Files
-- YouTube Unlisted Video Link
-- Slides PPTX File
-- One-page PDF report
+- [ ] YouTube Unlisted Video Link
+- [ ] Slides PPTX File
+- [ ] One-page PDF report
 ===
 
 
