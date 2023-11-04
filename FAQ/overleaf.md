@@ -6,6 +6,7 @@ authors:
     link: https://errhythm.me
     avatar: https://errhythm.me/assets/img/rhythm.png
 order: -3
+icon: "https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg"
 ---
 
 "Link sharing" allows a project owner to share their projects via different types of link. You must send the edit link to the ST & RA of the course.

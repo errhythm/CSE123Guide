@@ -1,5 +1,6 @@
 ---
-title: "Submission 8 (Individual Bonus)"
+title: "Submission 8"
+icon: ":eight:"
 ---
 
 [!badge Individual Work] [!badge variant="success" text="Bonus"]

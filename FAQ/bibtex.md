@@ -6,6 +6,7 @@ authors:
     link: https://errhythm.me
     avatar: https://errhythm.me/assets/img/rhythm.png
 order: -2
+icon: ":black_nib:"
 ---
 
 Many of you might face hard time in Latex to keep the correct referencing format. There would be different format for IEEE, ACM, ACL or Springer. BibTex can easily solve this problem.

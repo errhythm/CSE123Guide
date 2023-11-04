@@ -4,6 +4,7 @@ authors:
   - name: Annajiat Alim Rasel
     email: annajiat@gmail.com
 order: -1
+icon: ":white_check_mark:"
 ---
 
 

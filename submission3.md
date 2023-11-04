@@ -1,5 +1,6 @@
 ---
 title: "Submission 3"
+icon: ":three:"
 ---
 
 [!badge variant="secondary" text="Group Work"]

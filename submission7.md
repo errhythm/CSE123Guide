@@ -1,5 +1,6 @@
 ---
 title: "Submission 7"
+icon: ":seven:"
 ---
 
 [!badge variant="secondary" text="Group Work"] [!badge variant="success" text="Bonus"]

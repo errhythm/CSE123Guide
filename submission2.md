@@ -1,5 +1,6 @@
 ---
 title: "Submission 2"
+icon: ":two:"
 ---
 
 [!badge Individual Work]
