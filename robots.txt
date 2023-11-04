@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://errhythm.github.io/cse123Guide/sitemap.xml.gz
