@@ -4,6 +4,11 @@ url: https://errhythm.github.io/cse123Guide/
 branding:
   title: PR-NLP-DCS-DS-M&S Guide
   label: Guide
+breadcrumb:
+  enabled: true               # Enabled by default on Pro projects
+  home: Home                  # Custom label for the first item
+  home: ":icon-home:"         # or, use an icon
+  separator: "|"              # Custom item separator
 links:
 - text: 2023 Fall Submission Link
   link: https://docs.google.com/forms/d/e/1FAIpQLSdZbpTIjOc9QfK6b8oBg0YM1R2QpZ7mJ40pzRtOqYQVwUzbXQ/viewform
@@ -12,3 +17,7 @@ footer:
   links:
   - text: CSE123 Guide
     link: https://errhythm.github.io/cse123Guide/
+integrations:
+  gravatar:
+      enabled: true             # false to disable using Gravatar images
+      default: mp               # What Gravatar profile image to use
