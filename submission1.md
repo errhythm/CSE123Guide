@@ -28,7 +28,6 @@ Now update your Course Spreadsheet Task 1 cell with the given sample. After that
 
 How to read a paper: <br>
 [https://drive.google.com/drive/u/folders/13OA6fGXu91E4q2KVuan2KxPUWwDMoaPR](https://drive.google.com/drive/u/folders/13OA6fGXu91E4q2KVuan2KxPUWwDMoaPR)
-
 ===
 
 === Submission Files

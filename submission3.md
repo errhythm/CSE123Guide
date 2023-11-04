@@ -2,7 +2,7 @@
 title: "Submission 3"
 ---
 
-[!badge variant="secondary" Group Work]
+[!badge variant="secondary" text="Group Work"]
 
 Select a tentative topic which you plan to research on and plan an outline of it with the idea. You can change the topic later while you go through the submissions but do not worry about it now. Create a Google Slide which should contain, an Introduction, slides regarding the topic, related research, challenges, what you plan to do and conclusion. **All the slides must have page numbers.**
 
@@ -28,7 +28,7 @@ https://www.overleaf.com/randomoverleafeditlink
 
 ===
 
-Create a folder named `submission3` in your repository and make a text file named `README.txt`. Then paste the generated text in the GitHub and copy the link of your folder.
+Create a folder named `submission3` in your repository and make a text file named `README.txt`. The format of the repository and the `README.txt` will be like the given [sample](https://github.com/errhythm/CSE123/tree/main/submission3). Copy and paste the sample text in the GitHub then fill it up and copy the link of your folder.
 
 Now update your Course Spreadsheet Task 3 cell with the given sample. It should contain GitHub, Project Title & Overleaf Link. After that submit it in Google Form as well.
 
