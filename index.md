@@ -17,4 +17,15 @@ The course consists of 6 submissions and 2 bonus submissions. If you are able to
 - [Optional] It is very much appreciable to go with your own pace and learn more things out of the class. You can start a course on Coursera, Udemy or any other platform about the topic to learn which will help you later for bonus. [Here](https://www.classcentral.com/report/free-certificates/) is a list of sites with [Free courses with certificates](https://www.classcentral.com/report/free-certificates/).
 - Form a team and write the info in Course Spreadsheet.
 
+## Submissions
+[!ref target="blank" icon=":one:" text="Submission 1"](/submission1.md)
+[!ref target="blank" icon=":two:" text="Submission 2"](/submission2.md)
+[!ref target="blank" icon=":three:" text="Submission 3"](/submission3.md)
+[!ref target="blank" icon=":four:" text="Submission 4"](/submission4.md)
+[!ref target="blank" icon=":five:" text="Submission 5"](/submission5.md)
+[!ref target="blank" icon=":six:" text="Submission 6"](/submission6.md)
+[!ref target="blank" icon=":seven:" text="Submission 7"](/submission7.md)
+[!ref target="blank" icon=":eight:" text="Submission 8"](/submission8.md)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ferrhythm.github.io%2FCSE123Guide&count_bg=%233D9CC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://errhythm.github.io/CSE123Guide/)
