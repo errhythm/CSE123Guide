@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 icon: ":hand:"
+order: 100
 ---
 
 ## Introduction
