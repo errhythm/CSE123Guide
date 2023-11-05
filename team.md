@@ -1,7 +1,7 @@
 ---
 title: "Team Forming"
 icon: "https://upload.wikimedia.org/wikipedia/commons/0/05/Team_work_icon.svg"
-order: 100
+order: 99
 ---
 
 The first step of starting this course should be finding or forming a team. Recommended Research Team size is 1 to 4 students each, combined with 1 ST and 1 RA. You can make smaller teams or it can be only 1 student combined with 1 ST & 1 RA as well if you are unwilling/unable to find team members. You will find your course individual and team worksheet in your respective slack channel.
