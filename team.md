@@ -8,7 +8,7 @@ The first step of starting this course should be finding or forming a team. Reco
 
 In the worksheet you will find multiple teams and fields with name & ID. On the rightmost fields you will find the name of ST and RA assigned to different teams. You guys can select them yourself, just check the names in the rightmost cells. It would be like the following:
 
-![image.png](https://i.ibb.co/jDz5Rq6/image.png)
+![A Sample Blank Team](https://i.ibb.co/jDz5Rq6/image.png)
 
 The assigned ST & RA will help you guide the project, provide feedback, help you in this course and help you in the publication process even after this course. Approach any of them using Slack/discord and join their consultation if necessary.
 
