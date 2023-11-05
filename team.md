@@ -4,9 +4,9 @@ icon: "https://upload.wikimedia.org/wikipedia/commons/0/05/Team_work_icon.svg"
 order: 99
 ---
 
-The first step of starting this course should be finding or forming a team. Recommended Research Team size is 1 to 4 students each, combined with 1 ST and 1 RA. You can make smaller teams or it can be only 1 student combined with 1 ST & 1 RA as well if you are unwilling/unable to find team members. You will find your course individual and team worksheet in your respective slack channel.
+The first step of starting this course should be finding or forming a team. Recommended Research Team size is 1 to 4 students each, combined with 1 ST & 1 RA. You can make smaller teams or it can be only 1 student combined with 1 ST & 1 RA as well if you are unwilling/unable to find team members. You will find your course individual and team worksheet in your respective slack channel.
 
-In the worksheet you will find multiple teams and fields with name and ID. On the rightmost fields you will find the name of ST and RA assigned to different teams. You guys can select them yourself, just check the names in the rightmost cells. It would be like the following:
+In the worksheet you will find multiple teams and fields with name & ID. On the rightmost fields you will find the name of ST and RA assigned to different teams. You guys can select them yourself, just check the names in the rightmost cells. It would be like the following:
 
 ![image.png](https://i.ibb.co/jDz5Rq6/image.png)
 
