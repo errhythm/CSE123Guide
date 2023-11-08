@@ -16,7 +16,7 @@ footer:
   copyright: "Made for you guys by <a href='http://errhythm.me/' target='_blank'>Ehsanur Rahman Rhythm</a>. <br> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ferrhythm.github.io%2FCSE123Guide&count_bg=%233D9CC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)"
   links:
   - text: CSE123 Guide
-    link: https://errhythm.github.io/cse123Guide/
+    link: https://errhythm.github.io/CSE123Guide/
 integrations:
   gravatar:
       enabled: true             # false to disable using Gravatar images
