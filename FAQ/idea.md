@@ -6,7 +6,7 @@ authors:
     link: https://errhythm.me
     avatar: https://errhythm.me/assets/img/rhythm.png
 order: -4
-icon: ":black_nib:"
+icon: ":bulb:"
 ---
 
 For the final research paper, you have to find at least 3 research topic ideas. I would suggest to find interesting papers and datasets and get some idea from it.
