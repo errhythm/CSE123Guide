@@ -28,7 +28,7 @@ Now update your Course Spreadsheet Task 1 cell with the given sample. After that
 3 Synthesis (20% : quarter page): Explain how ideas in the paper relate to potential applications or future scopes. <br><br>
 
 How to read a paper: <br>
-[https://drive.google.com/drive/u/folders/13OA6fGXu91E4q2KVuan2KxPUWwDMoaPR](https://drive.google.com/drive/u/folders/13OA6fGXu91E4q2KVuan2KxPUWwDMoaPR)
+[https://drive.google.com/drive/u/0/folders/13OA6fGXu91E4q2KVuan2KxPUWwDMoaPR](https://drive.google.com/drive/u/0/folders/13OA6fGXu91E4q2KVuan2KxPUWwDMoaPR)
 ===
 
 === Submission Files
