@@ -21,3 +21,15 @@ integrations:
   gravatar:
       enabled: true             # false to disable using Gravatar images
       default: mp               # What Gravatar profile image to use
+# -----------------------------------------------------------------------------
+edit:
+  repo: "https://github.com/errhythm/CSE123Guide"                    # The URL to source files for this project
+  base: ""                    # Optional base path to a directory within repo
+  branch: "main"                  # Point to a custom branch within the repo
+  label: "Suggest an edit"     # A custom label for the generated link
+
+# -----------------------------------------------------------------------------
+
+editor:                       # Configure the page live editor functionality
+                              # that is only available during `retype start`
+  enabled: true               # false to disable and hide the live editor
