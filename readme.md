@@ -29,4 +29,4 @@ The course consists of 6 submissions and 2 bonus submissions. If you are able to
 [!ref target="blank" icon=":eight:" text="Submission 8"](/submission8.md)
 
 
-[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ferrhythm.github.io%2FCSE123Guide&count_bg=%233D9CC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://errhythm.github.io/CSE123Guide/)
+[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ferrhythm.github.io%2FCSE123Guide&count_bg=%233D9CC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://errhythm.github.io/CSE123Guide/)
