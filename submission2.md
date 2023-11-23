@@ -40,7 +40,7 @@ How to read a paper: <br>
 
 ==- GitHub Folder Hierarchy
 ```markdown
-- submission1
+- submission2
   - paper.pdf
   - Report.pdf
   - README.txt
