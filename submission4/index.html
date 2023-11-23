@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/cse123Guide">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.752934655401">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.754050610960">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -31,11 +31,12 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=3.5.0.752934655401" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.754050610960" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.752934655401" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.754050610960" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.752934655401" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.754050610960" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../resources/js/prism.js?v=3.5.0.754050610960" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -185,6 +186,40 @@
 <li class="task-list-item"><input disabled="disabled" type="checkbox" /> 1st Draft PDF</li>
 </ul>
 </doc-panel>
+<doc-panel id="github-folder-hierarchy" collapsed>
+    <template #title>GitHub Folder Hierarchy</template>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-markdown"><code v-pre class="language-markdown">- submission4
+  - 1st Draft.pdf
+  - README.txt
+  - slide.ppt</code></pre>
+</doc-codeblock></div>
+</doc-panel>
+<doc-panel id="readme-txt-sample" collapsed>
+    <template #title>README.txt sample</template>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">Overleaf link with edit access to course instructor gmail and then email &quot;anybody can edit&quot; link to ST, RA.
+https://www.overleaf.com/project/....
+
+Unlisted YouTube video:
+http://youtube....
+
+Paper title:
+Partially automated exam answer script checking for Intro to Marketing
+
+Paper presentation (anyone can view without login):
+http://slides.google.com/
+
+Group Number:
+0
+
+Group Members:
+12345678 Name A
+23456789 Name B
+34567890 Name C
+45678901 Name D</code></pre>
+</doc-codeblock></div>
+</doc-panel>
 
                                 
                                 <!-- Required only on API pages -->
@@ -260,6 +295,6 @@
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Submission 4", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Submission 4", level: 1, icon: "file", hasPrism: true, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>
