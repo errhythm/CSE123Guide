@@ -24,4 +24,4 @@ After the given code, there would be `\maketitle` and then `\begin{abstract}`.
 
 The output will be like the following:
 
-![](https://i.vgy.me/x3Bv8S.png)
+![ ](https://i.vgy.me/x3Bv8S.png)
