@@ -6,7 +6,7 @@ authors:
     link: https://errhythm.me
     avatar: https://errhythm.me/assets/img/rhythm.png
 order: -3
-icon: :lower_left_ballpoint_pen:
+icon: ":lower_left_ballpoint_pen:"
 ---
 
 According to IEEEtran, if your total number of author is more than 3, it is recommended to follow the given format. Follow the given LaTex snippet.
