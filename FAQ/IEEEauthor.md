@@ -6,7 +6,7 @@ authors:
     link: https://errhythm.me
     avatar: https://errhythm.me/assets/img/rhythm.png
 order: -3
-icon: ✍️
+icon: :lower_left_ballpoint_pen:
 ---
 
 According to IEEEtran, if your total number of author is more than 3, it is recommended to follow the given format. Follow the given LaTex snippet.
@@ -24,4 +24,4 @@ After the given code, there would be `\maketitle` and then `\begin{abstract}`.
 
 The output will be like the following:
 
-![IEEE Research Paper Output](https://i.vgy.me/x3Bv8S.png)
+![](https://i.vgy.me/x3Bv8S.png)
