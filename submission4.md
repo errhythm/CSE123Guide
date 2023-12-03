@@ -5,7 +5,7 @@ icon: ":four:"
 
 [!badge variant="secondary" text="Group Work"]
 
-We will start working on our research project from this submission. Find a suitable title for your research project, write abstract of it. Also complete the Introduction and the initial literature review of your research. Then plan the methodologies and give a brief description of them. Basically complete the 1st draft of your research paper in the Overleaf Project we opened in Submission 1. Also consult your assigned ST & RA frequently about your research and they will be glad to help you.
+We will start working on our research project from this submission. Find a suitable title for your research project, write abstract of it. Also complete the Introduction and the initial literature review of your research. Then plan the methodologies and give a brief description of them. Basically complete the 1st draft of your research paper in the Overleaf Project we opened in Submission 3. Also consult your assigned ST & RA frequently about your research and they will be glad to help you.
 
 Now present the first draft of your research paper by screen recording it. You can either make a Google Slide or present the paper from overleaf directly, any of them works. Then, upload the presentation video in YouTube making it **unlisted** in privacy settings. Then add the video in the Unlisted YouTube playlist we made earlier.
 
