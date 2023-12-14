@@ -6,7 +6,7 @@ order: 100
 
 ## Introduction
 
-![Welcome](ogimage.jpg "Welcome")
+![Submission Guide for PR-NLP-DCS-DS-M&S course in Brac University.](ogimage.jpg "Submission Guide for PR-NLP-DCS-DS-M&S course in Brac University.")
 
 Welcome to the course! The course is designed to help you immerse yourself in the topic in depth and develop an interest in learning more about it. You will conduct research on this topic and write a research paper on it. You can even publish that research paper so the world can read your great research! We’ll come back to that later.
 
