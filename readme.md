@@ -6,6 +6,8 @@ order: 100
 
 ## Introduction
 
+![Welcome](ogimage.jpg "Welcome")
+
 Welcome to the course! The course is designed to help you immerse yourself in the topic in depth and develop an interest in learning more about it. You will conduct research on this topic and write a research paper on it. You can even publish that research paper so the world can read your great research! We’ll come back to that later.
 
 The course consists of 6 submissions and 2 bonus submissions. If you are able to complete them within the deadline, they will be very easy and enjoyable. However, if you try to finish them in the last week of the semester, they might be very stressful. Let’s learn about each submissions. You will be able to get detailed info from the course spreadsheet, but I think it could be a supplementary guide for the submissions. Completing all 6 submissions will lead to you submitting a research paper in a conference for publishing.
