@@ -14,11 +14,13 @@ According to IEEEtran, if your total number of author is more than 3, it is reco
 Write after the `\title` command, paste the following code and replace your names and emails. 
 
 ```latex
-\author{\IEEEauthorblockN{AuthorX, AuthorY, AuthorZ, StudentTutorA,\\ResearchAssistantB and CourseInstructor}
+\author{\IEEEauthorblockN{AuthorX, AuthorY, AuthorZ, StudentTutorA, ResearchAssistantB and CourseInstructor}
 \IEEEauthorblockA{Department of Computer Science and Engineering (CSE) \\School of Data and Sciences (SDS)\\ 
- Brac University\\66 Mohakhali, Dhaka - 1212, Bangladesh}  
- \IEEEauthorblockA{\{author.x, author.y, author.z, student.tutor.a, \\ research.assistant.b\}@g.bracu.ac.bd, courseinstructor@gmail.com}}
+ Brac University\\KHA 224, Progati Sarani, Merul Badda, Dhaka - 1212, Bangladesh}  
+ \IEEEauthorblockA{\{author.x, author.y, author.z, student.tutor.a, research.assistant.b\}@g.bracu.ac.bd, courseinstructor@gmail.com}}
 ```
+
+* Use linebreak `\\` if necessary.
 
 After the given code, there would be `\maketitle` and then `\begin{abstract}`. 
 
