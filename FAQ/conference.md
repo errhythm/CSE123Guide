@@ -25,7 +25,7 @@ Select any of the conference you want to. I have selected the following as the r
 
 # Submission Guide (Sorted by Submission Portals)
 
-=== Microsoft CMT3
+===- Microsoft CMT3
 
 
 Create an account in Microsoft CMT3 from the following link: https://cmt3.research.microsoft.com/User/Register?ReturnUrl=%2F
@@ -49,8 +49,8 @@ Upload the PDF from downloading it from Overleaf directly.
 
 Click submit.
 
-=== Easychair
+===- Easychair
 Content 2
-=== Edas
+===- Edas
 Content 2
 ===
