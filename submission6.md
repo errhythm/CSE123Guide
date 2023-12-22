@@ -3,7 +3,7 @@ title: "Submission 6"
 icon: ":six:"
 ---
 
-[!badge variant="secondary" text="Group Work"]
+[!badge variant="secondary" text="Group Work"] [!badge variant="success" text="Bonus"]
 
 Identical to Submission 4 & 5, but you must finish your full research paper within then and you have to submit your research paper to a conference in order to publish it.
 
