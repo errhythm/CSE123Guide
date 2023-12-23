@@ -12,15 +12,18 @@ visibility: hidden
 
 Select any of the conference you want to. I have selected the following as the registration fees are comparatively cheaper and has a good history (Basically the conference has took place multiple times in past).
 
-| Conference Name                                                                             | Synonym          | URL                            | Registration Fee with IEEE Membership | Submission Link                                               |
+## The listed conferences are either from Springer or ACM. So you have to reformat your whole paper in Springer/ACM format according to the mentioned conferences. 
+
+| Conference Name                                                                             | Synonym          | URL                            | Registration Fee | Submission Link                                               |
 |---------------------------------------------------------------------------------------------|------------------|--------------------------------|---------------------------------------|---------------------------------------------------------------|
-| 7th IEEE International Conference on Energy Conservation and Efficiency (ICECE)             | ICECE 2024       | https://icece.kics.edu.pk/2024 | US $ 150                              | https://cmt3.research.microsoft.com/ICECE2024                 |
-| 11th International Conference on Signal Processing and Integrated Networks (SPIN 2024)      | SPIN 2024        | https://amity.edu/spin2024     | US $ 200                              | https://cmt3.research.microsoft.com/SPIN2024/Submission/Index |
-| 10th International Conference on Advanced Computing and Communication Systems (ICACCS 2024) | ICACCS 2024      | https://icaccs.sece.ac.in      | US $ 250                              | https://easychair.org/conferences/?conf=icaccs2024            |
+| 12th International Conference on Frontiers of Intelligent Computing: Theory and Applications             | FICTA 2024       | https://ficta.co.uk | US $ 250                              | https://forms.gle/LzN5G5razrSf2h6RA                 |
+| 5th Electric Power and Renewable Energy Conference      | EPREC 2024        | https://www.eprec.co.in     | US $ 50                              | https://cmt3.research.microsoft.com/EPREC2024 |
+| 10th International Conference on Advanced Computing and Communication Systems (ICACCS 2024) | ICACCS 2024      | http://maitri.stemrs.in      | US $ 110                              | https://easychair.org/conferences/?conf=icaccs2024            |
 | 23rd International Symposium INFOTEH-JAHORINA 2024                                          | INFOTEH–JAHORINA | https://infoteh.etf.ues.rs.ba  | EUR € 150                             | https://infoteh.etf.ues.rs.ba/openconf/openconf.php           |
 | 13th IEEE International Conference on Communication Systems and Network Technologies (2024) | CSNT 2024        | http://csnt.in                 | US $ 100                              | https://edas.info/newPaper.php?c=31290                        |
 
-## If you are shared this link, reply me with a conference I will provide you more details.
+
+### If you are shared this link, reply me with a conference I will provide you more details.
 
 
 # Submission Guide (Sorted by Submission Portals)
@@ -49,8 +52,6 @@ Upload the PDF from downloading it from Overleaf directly.
 
 Click submit.
 
-===- Easychair
-Content 2
 ===- Edas
 
 Create an account in Edas from the following link: 
