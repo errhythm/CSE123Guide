@@ -9,7 +9,9 @@ Select a tentative topic which you plan to research on and plan an outline of it
 
 Now present the slide by screen recording it. Then, upload the presentation video in YouTube making it **unlisted** in privacy settings. Then add the video in the Unlisted YouTube playlist we made earlier.
 
-Create a Overleaf Project with any Paper template from [IEEE](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn). Go to your newly created project, click on share and add Annajiat sir as a collaborator. The email to invite is `annajiat@gmail.com`. Then turn on Link Sharing, and send the "Anyone with this link can edit this project” link to your assigned ST & RA via email mentioning your team number and the course code. **The overleaf project title should have a prefix, "2023 Fall CSE...." (course code) followed by the actual title.**
+Create a Overleaf Project with any Paper template from [IEEE](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn). Go to your newly created project, click on share and add Annajiat sir as a collaborator. The email to invite is `annajiat@gmail.com`. Then turn on Link Sharing, and send the "Anyone with this link can edit this project” link to your assigned ST & RA via email mentioning your team number and the course code. **The overleaf project title format will be "2023 Fall CSExyz TeamXY Example Title"**
+
+###### *It will be the Overleaf Project Title, not the Paper Title in LaTex code. Check [How do I rename a project?](https://www.overleaf.com/learn/how-to/How_do_I_rename_a_project%3F)
 
 ==- Email format to send to ST & RA
 
