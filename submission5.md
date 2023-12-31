@@ -5,7 +5,7 @@ icon: ":five:"
 
 [!badge variant="secondary" text="Group Work"]
 
-Identical to Submission 4, but you must finish your 2nd draft. You should complete 75% of your research paper within then in the Overleaf Project.
+Identical to Submission 4, but you must finish your 2nd draft. You should complete your research paper within then in the Overleaf Project.
 
 Now present the second draft of your research paper by screen recording it. You can either make a Google Slide or present the paper from overleaf directly, any of them works. Then, upload the presentation video in YouTube making it **unlisted** in privacy settings. Then add the video in the Unlisted YouTube playlist we made earlier.
 
