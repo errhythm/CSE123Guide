@@ -5,7 +5,7 @@ icon: ":six:"
 
 [!badge variant="secondary" text="Group Work"] [!badge variant="success" text="Bonus"]
 
-Identical to Submission 4 & 5, but you must finish your full research paper within then and you have to submit your research paper to a conference in order to publish it.
+Identical to Submission 4 & 5, but you must format your full research paper according to conference within then and you have to submit your research paper to a conference in order to publish it.
 
 Create a Google Slide covering the whole research paper concept. **All the slides must have page numbers.** Present the slides by screen recording it. Then, upload the presentation video in YouTube making it **unlisted** in privacy settings. Then add the video in the Unlisted YouTube playlist we made earlier.
 
